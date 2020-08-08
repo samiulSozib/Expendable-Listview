@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ExpandableListView</string>
+
+    <string-array name="group_data">
+
+        <item>AL</item>
+        <item>ALU</item>
+        <item>AI</item>
+        <item>SBS</item>
+
+    </string-array>
+
+    <string-array name="child_data">
+
+        <item>Arithmetic Logic</item>
+        <item>Arithmetic Logic Unit</item>
+        <item>Artificial Intelegence</item>
+        <item>Samiul Bashar Sozib</item>
+
+
+    </string-array>
+</resources>
